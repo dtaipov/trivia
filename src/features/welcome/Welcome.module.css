@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+.container {
+    background: #4751C0;
+}
+
+.welcomeText {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 57px;
+    text-align: center;
+    color: #FFFFFF;
+}
